@@ -1,1 +1,25 @@
 A test file about goroutine
+
+We can see that the console printed
+`
+Hello,
+World!
+World!
+Hello,
+Hello,
+World!
+World!
+Hello,
+Hello,
+World!
+World!
+Hello,
+Hello,
+World!
+Hello,
+World!
+Hello,
+World!
+Hello,
+`
+This suggested that there are two goroutines executed at the same time. 
